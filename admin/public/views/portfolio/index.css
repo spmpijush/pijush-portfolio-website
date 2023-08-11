@@ -1,0 +1,5 @@
+.main_box {
+    /* border: 1px solid red; */
+    height: 78vh;
+    overflow-y: scroll;
+}
