@@ -6,11 +6,11 @@
 /admin/custom_libs
 /admin/frame_libs
 
-/website
+
 /website/config
 /website/custom_libs
 /website/frame_libs
-/website/.DS_Store
+
 
 
 # config/database.php
